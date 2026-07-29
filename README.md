@@ -2,9 +2,8 @@
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate and curious developer who loves building solutions that blend creativity and functionality. Whether it's working with full-stack web development, diving into system design, or exploring hardware like custom keyboards — I'm always eager to learn and create.</h3>
 
 
-
-
 ###
+
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=KhanIsrakAhmed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=KhanIsrakAhmed&theme=dracula&hide_border=false" height="150" alt="GitHub streak" />
