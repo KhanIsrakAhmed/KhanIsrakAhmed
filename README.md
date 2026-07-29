@@ -5,7 +5,9 @@
 
 
 ###
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=KhanIsrakAhmed&theme=dracula&hide_border=false" height="150" alt="GitHub streak" />
+</div>
 
 ###
 
