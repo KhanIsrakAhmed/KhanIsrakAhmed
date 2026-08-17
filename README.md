@@ -4,12 +4,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=KhanIsrakAhmed&theme=dracula&hide_border=false" height="150" alt="GitHub streak" />
-</div>
-
-
-### 📊 System Diagnostics (Stats)
+📊 System Diagnostics (Stats)
 <p align="center">
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KhanIsrakAhmed&theme=tokyonight&hide_border=true" />
 </p>
