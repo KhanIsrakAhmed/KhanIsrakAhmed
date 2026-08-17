@@ -3,14 +3,11 @@
 <p align="center"><strong>UIU CSE Graduate • Problem Solver</strong></p>
 
 <p align="center">
-  <a href="mailto:tashinparvez2002@gmail.com">
+  <a href="mailto:israk.ahmed38@gmail.com">
     <img src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail&logoColor=black&labelColor=white&color=black" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/khanisrak" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+  <a href="https://www.linkedin.com/in/khanisrak">
+    <img src="https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&logoColor=black&labelColor=white&color=black" alt="LinkedIn" />
   </a>
   <a href="https://github.com/KhanIsrakAhmed">
     <img src="https://img.shields.io/badge/GitHub-white?style=flat-square&logo=github&logoColor=black&labelColor=white&color=black" alt="GitHub" />
