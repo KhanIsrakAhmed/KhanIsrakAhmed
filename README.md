@@ -1,8 +1,27 @@
-<h1 align="center">Hi 👋, I'm Khan Israk Ahmed</h1>
+<h1 align="center">Khan Israk Ahmed</h1>
 
-<h3 align="center">
-Data Science Graduate • Software Developer • Curious Builder
-</h3>
+<p align="center"><strong>UIU CSE Graduate • Problem Solver</strong></p>
+
+<p align="center">
+  <a href="mailto:tashinparvez2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail&logoColor=black&labelColor=white&color=black" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/khanisrak" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://github.com/KhanIsrakAhmed">
+    <img src="https://img.shields.io/badge/GitHub-white?style=flat-square&logo=github&logoColor=black&labelColor=white&color=black" alt="GitHub" />
+  </a>
+ 
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TashinParvez&label=Profile%20Views&color=111111&style=flat-square" alt="Profile Views" />
+</p>
+
 
 <p align="center">
   I enjoy building practical solutions that combine software development, data, and creativity.
@@ -130,11 +149,7 @@ Data Science Graduate • Software Developer • Curious Builder
     />
   </a>
 
-  <a href="https://www.linkedin.com/in/khanisrak" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
+ 
   </a>
 
   <a href="https://www.facebook.com/israk.ahmed774" target="_blank">
