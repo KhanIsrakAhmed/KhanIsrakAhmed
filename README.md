@@ -39,12 +39,14 @@
 
 ---
 ### 💻 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,dart,js,php&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,html,tailwind,tensorflow,mysql,mariadb,git,figma&theme=dark" />
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js,dart,html,css,react&theme=dark" />
 </p>
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,django,tailwind,tensorflow,mongodb,mysql,git,figma&theme=dark" />
+</p>
 ---
 
 ## 📊 GitHub Statistics
