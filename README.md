@@ -38,64 +38,11 @@
 - 📚 Always learning and building something new
 
 ---
-
-## 🛠️ Languages & Tools
-
-### 💻 Programming Languages
-
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  </a>
-</p>
-
-### 🌐 Web Development
-
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" alt="React Native"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django"/>
-  </a>
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-  </a>
+### 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,dart,js,php&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,html,tailwind,tensorflow,mysql,mariadb,git,figma&theme=dark" />
 </p>
 
 ---
