@@ -6,7 +6,7 @@
   <a href="mailto:israk.ahmed38@gmail.com">
   <img src="https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail&logoColor=black&labelColor=white&color=black" alt="Email" />
 </a>
-<a href="https://www.linkedin.com/in/khanisrak">
+<a href="https://www.linkedin.com/in/khan-israk-ahmed-521a64393">
   <img src="https://img.shields.io/badge/LinkedIn-white?style=flat-square&logo=linkedin&logoColor=black&labelColor=white&color=black" alt="LinkedIn" />
 </a>
 <a href="https://github.com/KhanIsrakAhmed">
